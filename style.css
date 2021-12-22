@@ -1,0 +1,66 @@
+body {
+    background-color: lightskyblue;
+}
+
+h1 {
+    color: red;
+    font-family: sans-serif;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.top-list {
+    display:inline-block;
+    color: darkgreen;
+    font-family: sans-serif;
+}
+
+.top10 {
+    border: 2px solid darkblue;
+    width: 200px;
+}
+
+.list-title {
+    text-align: center;
+    text-decoration: underline;
+    height: 0px;
+}
+
+.query {
+    display: inline-block;
+    width: 20%;
+    background-color: gold;
+}
+
+
+.from-label {
+    border: 1px solid white;
+    background-color: white;
+}
+
+.query-from {
+    width: 250px;
+}
+
+.query-to {
+    width: 250px;
+}
+
+.query-button {
+    float: right;
+}
+
+.result {
+    display: inline-block;
+    position: absolute;
+    width: 50%;
+    height: 90px;
+    text-align: center;
+    line-height: 50px;
+}
+
+.result-paragraph {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
